@@ -1,0 +1,3 @@
+CaseCreator 用于生成随机长度的测试样例，修改源代码中的DATATYPE常数可以得到三种样例的测试数据
+
+AVL_Tree、Binary_Search_Tree_Tree、Splay_Tree读入测试样例，进行1000次生成树和删除树的操作，然后输出时间。可以修改相应源代码中的常数REPEATTIME来修改重复次数。
